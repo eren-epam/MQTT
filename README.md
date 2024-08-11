@@ -1,6 +1,10 @@
-# MQTT
+# Connection information
+
+Connect to the broker (e.g., tcp://broker.hivemq.com:1883).
+Subscribe: iot/data-epam ( Qos:1 )
 
 
+# MQTT payload for CRUD operations
 1. Create Operation
 Message JSON:
 {
